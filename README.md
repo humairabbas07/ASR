@@ -1,5 +1,6 @@
 # ASR
 Automatic Sound Recognition is tool which transcripts the Human Voice into Text, In order to run the code file ASR.ipynb.
+
 You need to install anaconda first.
 Within anaconda comes a tool named jupyter notebook, you will open the file in that.
 After download the dataset from this link: https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent, 
